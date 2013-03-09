@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework6</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ex1">Ex1Activity</string>
+    <string name="title_activity_ex2">Ex2Activity</string>
+    <string name="title_activity_ex3">Ex3Activity</string>
+
+</resources>
